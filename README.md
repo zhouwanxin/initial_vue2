@@ -1,4 +1,4 @@
-# dwyzt
+# initial_vue2
 
 ## Project setup
 ```
